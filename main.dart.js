@@ -35946,7 +35946,7 @@ bqV(){return $.FL.K()},
 bqU(){return $.FK.K()},
 bqW(a){var s="/rest_api",r="/uploads",q="API-KEY",p="123456789ABCDEF"
 $.bqT.b=a
-switch(a.a){case 0:$.ai6.b="https://danapaniexpress.com/develop"
+switch(a.a){case 0:$.ai6.b="http://api.danapaniexpress.com/develop"
 $.ai5.b=s
 $.b4T.b=r
 $.FL.b=q
@@ -35954,7 +35954,7 @@ $.FK.b=p
 $.b4S.b=B.ee
 $.b4R.b=B.kZ
 break
-case 1:$.ai6.b="https://danapaniexpress.com/production"
+case 1:$.ai6.b="https://api.danapaniexpress.com/production"
 $.ai5.b=s
 $.b4T.b=r
 $.FL.b=q
@@ -35962,7 +35962,7 @@ $.FK.b=p
 $.b4S.b=B.OW
 $.b4R.b=B.kZ
 break
-case 2:$.ai6.b="https://danapaniexpress.com"
+case 2:$.ai6.b="https://api.danapaniexpress.com"
 $.ai5.b=s
 $.b4T.b=r
 $.FL.b=q
